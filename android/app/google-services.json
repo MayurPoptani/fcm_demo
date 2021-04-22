@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954919830541",
+    "project_id": "fcmtrial-a81ec",
+    "storage_bucket": "fcmtrial-a81ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954919830541:android:f00e0093966cd3eaf30144",
+        "android_client_info": {
+          "package_name": "app.studio.firebase_fcm_integration_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954919830541-krlvfa85sq4hcj7bhguqcpcjqi7itams.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkejdvjtjLL65Y0PtzlhtVwGqFdT5gvq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954919830541-krlvfa85sq4hcj7bhguqcpcjqi7itams.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
